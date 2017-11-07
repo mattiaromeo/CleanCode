@@ -2,10 +2,10 @@
 
 Do these stories one by one.
 
-1. Save a customer into a collection.
+1. Save a customer into a database.
 2. Make sure you can couple a loyalty card with a customer. This contains a barcode and bonus points.
-3. Make sure you can find you customer by a loyalty card barcode.
-4. Make sure you can save the groceries by day.
+3. Make sure you can find a customer by a loyalty card barcode.
+4. Make sure you can save the groceries a customer buys by day.
 5. Make sure you can search for the item that a specific customer bought the most.
 6. Make sure you can search for the items that a specific customer bought only once.
 7. Make sure you can guess the items a customer is going to buy based on the day of the week. For instance 9/10 times they bought a fish on friday.
